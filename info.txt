@@ -1,0 +1,5 @@
+'Louis George Light': require('./assets/Louis George Cafe Light.ttf'),
+    'Louis George Light Italic': require('./assets/Louis George Cafe Light Italic.ttf'),
+    'Louis George Italic': require('./assets/Louis George Cafe Italic.ttf'),
+    'Louis George Bold': require('./assets/Louis George Cafe Bold.ttf'),
+    'Louis George Bold Italic': require('./assets/Louis George Cafe Bold Italic.ttf'),
